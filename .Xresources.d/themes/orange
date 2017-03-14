@@ -1,0 +1,6 @@
+! theme: orange
+! author: nvnehi
+! website: http://nnh.io
+
+#include "rofi.orange"
+#include "urxvt.orange"

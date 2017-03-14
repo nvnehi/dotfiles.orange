@@ -1,0 +1,13 @@
+! theme: orange
+! author: nvnehi
+! website: http://nnh.io
+
+! rofi colors
+#define COLOR_ROFI_BACKGROUND           #111111
+#define COLOR_ROFI_BACKGROUND_ALT       COLOR_ROFI_BACKGROUND
+#define COLOR_ROFI_FOREGROUND           #787a78
+#define COLOR_ROFI_HIGHLIGHT_BACKGROUND #f76d47
+#define COLOR_ROFI_HIGHLIGHT_FOREGROUND #ffffff
+#define COLOR_ROFI_WINDOW               COLOR_ROFI_BACKGROUND
+#define COLOR_ROFI_WINDOW_BORDER        COLOR_ROFI_HIGHLIGHT_BACKGROUND
+#define COLOR_ROFI_ACTIVE               COLOR_ROFI_HIGHLIGHT_BACKGROUND
